@@ -1,2 +1,3 @@
-# equacoesdiferenciais
-Notas de aula de MA311 - Cálculo III (Equações Diferenciais)
+# Exercícios de Equações Diferenciais
+
+Repositório para exercícios de equações diferenciais.
